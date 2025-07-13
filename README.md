@@ -2,13 +2,13 @@
 
 ---
 
-**Welcome !** 🎉 This repository is your ultimate starting point for learning Python programming from the very basics. Whether you're completely new to coding or just looking to solidify your foundational knowledge, this tutorial will guide you through all essential concepts step-by-step.
+**Welcome !**  This repository is your ultimate starting point for learning Python programming from the very basics. Whether you're completely new to coding or just looking to solidify your foundational knowledge, this tutorial will guide you through all essential concepts step-by-step.
 
 As an MLOps Engineer, I'm passionate about making complex topics accessible and helping the community thrive. My goal with this repository is to provide a clear, practical, and engaging learning experience for aspiring developers to program with python.
 
 ---
 
-### 📖 Table of Contents
+###  Table of Contents
 
 * [ About This Repository](#-about-this-repository)
 * [ Who Is This For?](#-who-is-this-for)
@@ -91,13 +91,13 @@ Your contributions are highly valued!
 
 ---
 
-### 📄 License
+###  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-### 📞 Contact
+###  Contact
 
 Feel free to reach out if you have any questions, feedback, or just want to connect!
 
