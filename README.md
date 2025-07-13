@@ -58,11 +58,11 @@ To get started with this tutorial, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/python-from-0-to-0.git](https://github.com/your-username/python-from-0-to-0.git)
+    git clone [https://github.com/ElSangour/Python_From_Zero2Hero.git](https://github.com/ElSangour/Python_From_Zero2Hero.git)
     ```
 2.  **Navigate to the repository directory:**
     ```bash
-    cd python-from-0-to-0
+    cd Python_From_Zero2Hero
     ```
 3.  **Install Python:** If you don't have Python installed, download the latest stable version from [python.org](https://www.python.org/downloads/). It's recommended to install Python 3.9 or newer.
 
