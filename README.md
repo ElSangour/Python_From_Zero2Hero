@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have any questions, feedback, or just want to connect!
 
-* **Your Name**: [Your GitHub Profile](https://github.com/ElSangour)
-* **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-malek-tlili/)
+* **Github**: [ElSangour](https://github.com/ElSangour)
+* **LinkedIn**: [Ahmed Malek Tlili](https://www.linkedin.com/in/ahmed-malek-tlili/)
 
 ---
